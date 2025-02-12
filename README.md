@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Engineering and Analytics**
 
-- 📫 How to reach me **@rishubjha on most of the major social platforms**
+- 📫 How to reach me: **@rishubjha on most of the major social platforms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

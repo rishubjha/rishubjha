@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishub Jha</h1>
 <h3 align="center">A passionate Azure Data Engineer from India</h3>
 
-- 🔭 I’m currently working on [Azure Data Engineering Project](ppoo)
+- 🔭 I’m currently working on **Azure Data Engineering Project**
 
 - 🌱 I’m currently learning **Microsoft Azure Databricks**
 
-- 👯 I’m looking to collaborate on [example](oooooo)
+- 👯 I’m looking to collaborate on **Data Analytics Solutions**
 
-- 🤝 I’m looking for help with [Microsoft Azure Databricks, Azure Datafactory](ddd)
+- 🤝 I’m looking for help with **Microsoft Azure Databricks, Azure Datafactory**
 
 - 💬 Ask me about **Data Engineering and Analytics**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@rishubjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rishubjha" height="30" width="40" /></a>
+<a href="https://twitter.com/rishubjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishubjha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rishubjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rishubjha" height="30" width="40" /></a>
 </p>
 

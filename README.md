@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishub Jha</h1>
 <h3 align="center">A passionate Azure Data Engineer from India</h3>
 
-- 🔭 I’m currently working on **Azure Data Engineering Project**
+- 🔭 I’m currently working on **Building Scalable Data Engineering Projects**
 
-- 🌱 I’m currently learning **Microsoft Azure Databricks**
+- 🌱 I’m currently learning **Generative AI **
 
 - 👯 I’m looking to collaborate on **Data Analytics Solutions**
-
-- 🤝 I’m looking for help with **Microsoft Azure Databricks, Azure Datafactory**
 
 - 💬 Ask me about **Data Engineering and Analytics**
 
